@@ -2,7 +2,7 @@
 title:        rgn js
 tagline:      racing game library starter and editor based on Three.js (port from c#)
 
-baseurl:      ""
+baseurl:      "/gh-rgn-js"
 paginate:     1
 locale:       "en"
 
